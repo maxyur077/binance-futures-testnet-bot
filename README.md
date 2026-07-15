@@ -11,6 +11,16 @@ A production-grade Python trading bot for placing orders on Binance Futures USDT
 - **REST API**: Full FastAPI backend with auto-generated OpenAPI documentation
 - **Logging**: JSON-structured rotating file logs + coloured console output
 
+##DEMO VIDEO
+
+
+https://github.com/user-attachments/assets/bdf1fad4-2bd3-4535-b83b-65b59d0b8d93
+
+
+
+
+
+
 ## Prerequisites
 
 - Python 3.10+
